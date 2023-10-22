@@ -1,0 +1,6 @@
+a 2 b
+a 15 c
+b 6 c
+c 1 d
+d 8 e
+c 3 e
